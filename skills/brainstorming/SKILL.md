@@ -217,13 +217,14 @@ If any criterion is unmet:
 
 ## Key Principles (Non-Negotiable)
 
-- One question at a time  
+- One question at a time - Don't overwhelm with multiple questions 
 - Assumptions must be explicit  
-- Explore alternatives  
-- Validate incrementally  
-- Prefer clarity over cleverness  
-- Be willing to go back and clarify  
-- **YAGNI ruthlessly**
+- Explore alternatives  - Always propose 2-3 approaches before settling
+- Validate incrementally - Present design, get approval before moving on
+- Multiple choice preferred - Easier to answer than open-ended when possible
+- Prefer clarity over cleverness 
+- Be flexible - Be willing to go back and clarify when something doesn't make sense -   
+- **YAGNI ruthlessly** - Remove unnecessary features from all designs
 
 ---
 If the design is high-impact, high-risk, or requires elevated confidence, you MUST hand off the finalized design and Decision Log to the `multi-agent-brainstorming` skill before implementation.
